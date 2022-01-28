@@ -1,7 +1,7 @@
 # Hopzone - Installation Manual
 
 ## About
-This document describes the process of setting up and running the Hopzone multiplayer platformer game. For all information about the project itself, please visit the **[project documentation](https://hackmd.io/R3f7zrBoSTyMGysWn2jYQg)**.
+This document describes the process of setting up and running the Hopzone multiplayer platformer game. For all information about the project itself, please visit the **[project documentation](https://github.com/hop-zone/hopzone_docs)**.
 
 ## :1234: Setting up the backend
 ### Step 1: Cloning the github repository
