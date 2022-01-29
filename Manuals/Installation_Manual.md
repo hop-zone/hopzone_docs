@@ -111,9 +111,8 @@ To validate that the backend started up correctly, head over to the logs of the 
 docker logs hopzone_backend_api_1
 ```
 ![](https://i.imgur.com/yksXr1Z.png)
-:::    info
-Following messages should be visible. If not, something went wrong in the installation process.
-:::
+:information_source: Following messages should be visible. If not, something went wrong in the installation process.
+
 
 
 ## :computer: Setting up the frontend
