@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-1. [Project Description](#-Project-Description)
+1. [Project Description](#project-description)
 2. [Research Question](#-Research-Question)
 3. [Requirements](#-Requirements)
 4. [The Game](#The-Game)
@@ -14,7 +14,10 @@
 
 
 
+<a name="project-description">
+
 ## :memo: Project Description
+</a>
 
 ### Game
 Hopzone is a 2D multiplayer platformer game. It is a browsergame where players hop platforms in space. The goal of the game is to successfully jump platforms, dodge monsters and survive the longest!
