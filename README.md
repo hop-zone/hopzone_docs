@@ -208,7 +208,7 @@ NEXT_PUBLIC_BACKEND=URL TO THE BACKEND SOCKET SERVER
 Please refer to the installation and user manual for setting up this project to use for yourself.
 
 - [Hopzone - Installation Manual](Manuals/Installation_Manual.md)
-- [Hopzone - User Manual](https://github.com/hop-zone/hopzone_docs/blob/9489d116691172d45cc100ffbda3d1daf064e279/Manuals/User_Manual.md)
+- [Hopzone - User Manual](Manuals/User_Manual.md)
 
 <a name="project-timeline">
 
