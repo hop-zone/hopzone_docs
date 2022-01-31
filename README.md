@@ -3,14 +3,14 @@
 ## Table Of Contents
 
 1. [Project Description](#project-description)
-2. [Research Question](#-Research-Question)
-3. [Requirements](#-Requirements)
-4. [The Game](#The-Game)
-5. [Backend](#-Backend)
-6. [Frontend](#-Frontend)
-7. [Installation](#-Installation)
-8. [Sources](#Sources)
-9. [Milestones](#-Milestones)
+2. [Research Question](#research-question)
+3. [Requirements](#requirements)
+4. [Technical Research](#technical-research)
+5. [Backend](#backend)
+6. [Frontend](#frontend)
+7. [Installation & Usage](#installation)
+8. [Sources](#sources)
+9. [Milestones](#milestones)
 
 
 
@@ -25,7 +25,10 @@ Hopzone is a 2D multiplayer platformer game. It is a browsergame where players h
 ### Project
 This project is a student research project of the bachelor **[Multimedia & Creative Technologies](https://mct.be/)**. As part of this module we were given the assignment to research a topic that hasn't been covered in the learning program. The application will be a full-stack web application.
 
+<a name="research-question">
+
 ## :question: Research Question
+</a>
 At the start of this project we had to choose a topic we wanted to research and formulate a research question about this topic.
 
 :information_source: **What are the possibilities of a multiplayer 2D game based on Processing(P5.js)?**
@@ -41,8 +44,10 @@ To research this topic, the main research question has to be divided into multip
 - What ways are there to realise realtime multiplayer?
 - What is a good workflow in P5?
 
+<a name="requirements">
 
 ## :heavy_check_mark: Requirements
+</a>
 
 These are the requirements to conclude I have delivered a **successful** project. 
 
@@ -67,7 +72,10 @@ The finished project has to be a working multiplayer browsergame. A platformer g
 - Boosted platforms
 - Obstacles
 
+<a name="technical-research">
+
 ## :mag: Technical Research
+</a>
 
 In this researchproject I will investigate what the possibilities are when creating a multiplayer game in the browser based on the javascript library of Processing (P5.js). 
 
@@ -84,8 +92,10 @@ It will be important to find a good way to store and read game data. What ways a
 - Theme of the game?
 - What assets to create?
 
+<a name="backend">
 
 ## :1234: Backend
+</a>
 ### Architecture
 To realize multiplayer, a solid game engine has to be created. There are 2 main ways to realize realtime apps [1]: 
 - Peer 2 Peer
@@ -130,7 +140,10 @@ When a game is started, the worker thread is responsible for updating this game 
 ### Security
 For authorization, Google's **Firebase** is used. This choice was made because it is easy to use and integrate. Middleware is added to the socket server to perform authorization on each socket connection. To authorize users, they have to provide a valid token with their connection.
 
+<a name="frontend">
+
 ## :computer: Frontend 
+</a>
 The frontend is built in the Next.js framework. 
 
 ### Styling
@@ -187,18 +200,27 @@ NEXT_PUBLIC_BACKEND=URL TO THE BACKEND SOCKET SERVER
 ```
 
 
+<a name="installation">
+
 ## :wrench: Installation & Usage
+</a>
 
 Please refer to the installation and user manual for setting up this project to use for yourself.
 
 - [Hopzone - Installation Manual](Manuals/Installation_Manual.md)
 - [Hopzone - User Manual](https://github.com/hop-zone/hopzone_docs/blob/9489d116691172d45cc100ffbda3d1daf064e279/Manuals/User_Manual.md)
 
+<a name="project-timeline">
+
 ## :hourglass: Project timeline
+</a>
 
 ![](https://i.imgur.com/RB820q3.png)
 
+<a name="sources">
+
 ## Sources
+</a>
 [1]S. Neelakantam, “Building a realtime multiplayer browser game in less than a day — Part 3/4,” The Startup, Mar. 18, 2021. https://medium.com/swlh/building-a-realtime-multiplayer-browser-game-in-less-than-a-day-part-3-4-ede95eb924a0 (accessed Dec. 22, 2021).
 
 
@@ -211,7 +233,10 @@ Please refer to the installation and user manual for setting up this project to 
 [5]‘react-p5’, npm. https://www.npmjs.com/package/react-p5 (accessed Jan. 11, 2022).
 
 
+<a name="milestones">
+
 ## :checkered_flag: Milestones
+</a>
 
 ### 31/12
 - [x] Visual representation in contract plan
