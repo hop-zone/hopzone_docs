@@ -96,6 +96,7 @@ It will be important to find a good way to store and read game data. What ways a
 
 ## :1234: Backend
 </a>
+
 ### Architecture
 To realize multiplayer, a solid game engine has to be created. There are 2 main ways to realize realtime apps [1]: 
 - Peer 2 Peer
@@ -144,6 +145,7 @@ For authorization, Google's **Firebase** is used. This choice was made because i
 
 ## :computer: Frontend 
 </a>
+
 The frontend is built in the Next.js framework. 
 
 ### Styling
@@ -221,6 +223,7 @@ Please refer to the installation and user manual for setting up this project to 
 
 ## Sources
 </a>
+
 [1]S. Neelakantam, “Building a realtime multiplayer browser game in less than a day — Part 3/4,” The Startup, Mar. 18, 2021. https://medium.com/swlh/building-a-realtime-multiplayer-browser-game-in-less-than-a-day-part-3-4-ede95eb924a0 (accessed Dec. 22, 2021).
 
 
